@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BJGelkey
+- 🗺 I’m from Vietnam 
+- 🌱 I’m currently learning high school
+- 💪 I’m passionate about programming and am trying to learn on my own
