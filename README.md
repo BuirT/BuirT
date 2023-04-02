@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BuirT
 - 🗺 I’m from Vietnam 
-- 🌱 I’m currently learning high school
+- 🌱 I'm a student at Hutech University
 - 💪 I’m passionate about programming and am trying to learn on my own
+- 🔤 I know a little English and Korean
